@@ -1,1 +1,2 @@
 # Android-PDF-Reader
+This is the Assignment 4 of the CS349 course. And this application is a PDF reader that allows a user to read and annotate a document on an Android tablet. The program is written in Kotlin and can be complied using Gradle project. The program is run by intellij IDE with the Android API 30 SDK. Also for testing, please use a Pixel C tablet AVD with API 29.

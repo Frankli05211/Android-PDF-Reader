@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/CS 349/a4.pdf_viewer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.18072916666666666" />
+        <entry key="..\:/CS 349/a4.pdf_viewer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.18072916666666666" />
+        <entry key="..\:/CS 349/a4.pdf_viewer/app/src/main/res/layout/activity_main.xml" value="0.13333333333333333" />
+        <entry key="..\:/CS 349/a4.pdf_viewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.18072916666666666" />
+        <entry key="..\:/CS 349/a4.pdf_viewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.18072916666666666" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/layout-land/activity_main.xml" value="0.264" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/menu/mainmenu.xml" value="0.4" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/menu/menu.xml" value="0.303125" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.251953125" />
+        <entry key="..\:/Spring 2022/CS 349/a4.pdf_viewer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.251953125" />
+        <entry key="..\:/cs349/a4/a4.pdf_viewer/app/src/main/res/layout-land/activity_main.xml" value="0.5" />
+        <entry key="..\:/cs349/a4/a4.pdf_viewer/app/src/main/res/layout/activity_main.xml" value="0.8333333333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android API 33 Platform" project-jdk-type="Android SDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.4" />
+      </ProjectState>
+    </option>
+  </component>
+</project>
